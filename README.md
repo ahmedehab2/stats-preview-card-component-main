@@ -16,4 +16,4 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+
